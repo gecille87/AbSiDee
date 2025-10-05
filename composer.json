@@ -1,0 +1,5 @@
+{
+    "require": {
+        "gecille-uptura/flexiapi": "^2.0"
+    }
+}
